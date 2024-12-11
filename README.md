@@ -14,7 +14,6 @@ This Python application allows for interactive comparison of before-and-after ph
 
 2. **Install Dependencies:** Open your terminal or command prompt, navigate to the directory containing the downloaded files, and run:
 
-bash
 > pip install -r requirements.txt
 
 Run the App: Once the dependencies are installed, run the application using the following command in your terminal:
