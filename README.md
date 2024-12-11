@@ -25,8 +25,8 @@ This will launch the application in your web browser.
 [Link to your deployed application](https://huggingface.co/spaces/hanifekaptan/Before_After_Comparison_BC)
 
 ## Links
-Leafmap: [Leafmap](https://leafmap.org/)
-Streamlit: [Streamlit](https://streamlit.io/)
+* Leafmap: [Leafmap](https://leafmap.org/)
+* Streamlit: [Streamlit](https://streamlit.io/)
 
 
 ## Contribute
