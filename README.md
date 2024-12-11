@@ -28,8 +28,7 @@ This will launch the application in your web browser.
 * Streamlit: [Streamlit](https://streamlit.io/)
 
 
-## Contribute
-Feel free to contribute to this project! If you have any suggestions, bug reports, or feature requests, please open an issue on this repository.
-
-For collaboration opportunities, connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/hanifekaptan-u1f90d/)
+## Contact Information
+For any questions or feedback, feel free to contact me
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/hanifekaptan-u1f90d/)
 
