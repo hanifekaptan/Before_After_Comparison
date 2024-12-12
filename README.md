@@ -21,7 +21,7 @@ Run the App: Once the dependencies are installed, run the application using the 
 This will launch the application in your web browser.
 
 ## Try it Out!
-[Link to your deployed application](https://huggingface.co/spaces/hanifekaptan/Before_After_Comparison_BC)
+[Hugging Face Space](https://huggingface.co/spaces/hanifekaptan/Before_After_Comparison_BC)
 
 ## Links
 * Leafmap: [Leafmap](https://leafmap.org/)
